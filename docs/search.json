@@ -1,0 +1,212 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "파이썬 프로그램 입문",
+    "section": "",
+    "text": "Preface",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "16  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.",
+    "crumbs": [
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "[1] 황반석. Sweigart Al, (알 스웨이가트의)\n파이썬 프로젝트 : 81개의 실습 예제로 시작하는 파이썬 프로그래밍\n입문. 제이펍, 2022.\n\n\n[2] 이제혁. Sweigart Al, 뚝딱뚝딱 파이썬 자동화\n: 다양한 연습 프로젝트를 통해 익히는 단순 반복 작업 해결 전략.\n제이펍, 2021.\n\n\n[3] 서승희, (14일만에 뚝딱!) 파이썬 생활\n프로젝트 코딩. 길벗, 2023.",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "index.html#ds부트캠프python",
+    "href": "index.html#ds부트캠프python",
+    "title": "파이썬 프로그램 입문",
+    "section": "DS부트캠프(Python)",
+    "text": "DS부트캠프(Python)",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "python01.html",
+    "href": "python01.html",
+    "title": "1  파이썬 소개 및 개발 환경 구성",
+    "section": "",
+    "text": "// PASS",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>파이썬 소개 및 개발 환경 구성</span>"
+    ]
+  },
+  {
+    "objectID": "python02.html",
+    "href": "python02.html",
+    "title": "2  변수, 연산자 그리고 제어문",
+    "section": "",
+    "text": "// PASS",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>변수, 연산자 그리고 제어문</span>"
+    ]
+  },
+  {
+    "objectID": "python03.html",
+    "href": "python03.html",
+    "title": "3  함수와 매개변수",
+    "section": "",
+    "text": "// PASS",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>함수와 매개변수</span>"
+    ]
+  },
+  {
+    "objectID": "python04.html",
+    "href": "python04.html",
+    "title": "4  재귀 함수",
+    "section": "",
+    "text": "// PASS",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>재귀 함수</span>"
+    ]
+  },
+  {
+    "objectID": "python05.html",
+    "href": "python05.html",
+    "title": "5  리스트, 딕셔너리,튜플 집합",
+    "section": "",
+    "text": "// PASS",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>리스트, 딕셔너리,튜플 집합</span>"
+    ]
+  },
+  {
+    "objectID": "python06.html",
+    "href": "python06.html",
+    "title": "6  람다와 리스트 축약",
+    "section": "",
+    "text": "// PASS",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>람다와 리스트 축약</span>"
+    ]
+  },
+  {
+    "objectID": "python07.html",
+    "href": "python07.html",
+    "title": "7  모듈과 활용",
+    "section": "",
+    "text": "// PASS",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>모듈과 활용</span>"
+    ]
+  },
+  {
+    "objectID": "python08.html",
+    "href": "python08.html",
+    "title": "8  파일과 예외처리",
+    "section": "",
+    "text": "// PASS",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>파일과 예외처리</span>"
+    ]
+  },
+  {
+    "objectID": "python09.html",
+    "href": "python09.html",
+    "title": "9  클래스와 메서드",
+    "section": "",
+    "text": "// PASS",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>클래스와 메서드</span>"
+    ]
+  },
+  {
+    "objectID": "python10.html",
+    "href": "python10.html",
+    "title": "10  객체와 상속",
+    "section": "",
+    "text": "// PASS",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>객체와 상속</span>"
+    ]
+  },
+  {
+    "objectID": "python11.html",
+    "href": "python11.html",
+    "title": "11  Numpy 소개 및 활용",
+    "section": "",
+    "text": "// PASS",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Numpy 소개 및 활용</span>"
+    ]
+  },
+  {
+    "objectID": "python12.html",
+    "href": "python12.html",
+    "title": "12  Pandas와 Matplotlib를 사용한 데이터 분석",
+    "section": "",
+    "text": "// PASS",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Pandas와 Matplotlib를 사용한 데이터 분석</span>"
+    ]
+  },
+  {
+    "objectID": "python13.html",
+    "href": "python13.html",
+    "title": "13  Pandas와 Scikit-Learn을 활용한 데이터 분석",
+    "section": "",
+    "text": "// PASS",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Pandas와 Scikit-Learn을 활용한 데이터 분석</span>"
+    ]
+  },
+  {
+    "objectID": "python14.html",
+    "href": "python14.html",
+    "title": "14  streamlit을 활용한 대시보드 만들기",
+    "section": "",
+    "text": "// PASS",
+    "crumbs": [
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>streamlit을 활용한 대시보드 만들기</span>"
+    ]
+  },
+  {
+    "objectID": "python15.html",
+    "href": "python15.html",
+    "title": "15  연구 자료 배포 및 SW 패키지",
+    "section": "",
+    "text": "// PASS",
+    "crumbs": [
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>연구 자료 배포 및 SW 패키지</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#추천-교재",
+    "href": "index.html#추천-교재",
+    "title": "파이썬 프로그램 입문",
+    "section": "추천 교재",
+    "text": "추천 교재\n[1], [2], [3]\n\n\n\n\n[1] 황반석. Sweigart Al, (알 스웨이가트의) 파이썬 프로젝트 : 81개의 실습 예제로 시작하는 파이썬 프로그래밍 입문, 제이펍, 2022.\n\n\n[2] 이제혁. Sweigart Al, 뚝딱뚝딱 파이썬 자동화 : 다양한 연습 프로젝트를 통해 익히는 단순 반복 작업 해결 전략, 제이펍, 2021.\n\n\n[3] 서승희, (14일만에 뚝딱!) 파이썬 생활 프로젝트 코딩, 길벗, 2023.",
+    "crumbs": [
+      "Preface"
+    ]
+  }
+]

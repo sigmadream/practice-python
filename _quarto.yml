@@ -1,0 +1,45 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "파이썬 프로그램 입문"
+  author: "한상곤(sangkon@pusan.ac.kr)"
+  date: "1/29/2024"
+  chapters:
+    - index.qmd
+    - python01.qmd
+    - python02.qmd
+    - python03.qmd
+    - python04.qmd
+    - python05.qmd
+    - python06.qmd
+    - python07.qmd
+    - python08.qmd
+    - python09.qmd
+    - python10.qmd
+    - python11.qmd
+    - python12.qmd
+    - python13.qmd
+    - python14.qmd
+    - python15.qmd            
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+csl: ieee.csl
+
+format:
+  html:
+    theme: cosmo
+  # pdf:
+  #   documentclass: scrreprt
+  #   papersize: a4
+  #   toc: true
+  #   toc-depth: 2
+  #   number-sections: true
+  #   colorlinks: true
+  #   include-in-header: 
+  #     text: |
+  #       \usepackage{kotex} 
+  #       \usepackage{pdfpages}
